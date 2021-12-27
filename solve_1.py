@@ -1,0 +1,6 @@
+print("Enter First Number")
+a = input()
+print("Enter second Number")
+b = input()
+c = int(a) - int(b)
+print("Result of subtraction \n", c)
