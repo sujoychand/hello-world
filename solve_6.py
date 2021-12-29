@@ -5,10 +5,10 @@ while True:
     in_num = int(input())
     if in_num < 100:
         print("Entered number is less than 100", in_num)
-        break
+        continue
     else:
         print("Entered number is greater than 100, hence stopping loop")
-        continue
+        break
 
 
 # print("Enter user input ")
