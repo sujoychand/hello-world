@@ -1,4 +1,4 @@
-# Code withHarry : Solve 6
+# Code withHarry : Solve 6 :Number less than 100 print different message , greater than 100 different message
 
 while True:
     print("Enter user input ")
