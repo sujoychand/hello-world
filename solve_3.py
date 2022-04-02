@@ -5,7 +5,7 @@ age = int(input())
 
 if 18 < age <= 100:
     print("Person can drive the car")
-if age == 18:
+elif age == 18:
     print("Not able to decide weather person can drive or not")
 elif 7 <= age < 18:
     print("Too Young to think about driving")
